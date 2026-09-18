@@ -1,3 +1,7 @@
+# Buổi 2 - Bài 3: Google Docs
+
+**Người thực hiện:** Nguyễn Mạnh Khang - B2613107
+
 **Link Google Docs:** [(Link)](https://docs.google.com/document/d/1OZHep5G1IuSMSdlU78zs14r8kKiTnLtlQuuslO6IYDs/edit?usp=sharing)
 
 ---
@@ -14,7 +18,9 @@ Tạo file Buoi2_Nhom4_Bai_3, chia sẻ với tùy chọn "Anyone with the link"
 - Paragraph: Before 6pt, After 6pt, Line spacing 1.5
 
 ![Page setup](1_page_setup.png)
+
 ![Giãn cách đoạn](7_paragraph_spacing.png)
+
 ## 3.3 Tạo và định dạng văn bản
 Soạn Đơn xin xác nhận sinh viên theo mẫu.
 
