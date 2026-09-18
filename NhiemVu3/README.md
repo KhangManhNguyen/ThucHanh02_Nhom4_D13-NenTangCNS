@@ -14,7 +14,7 @@ Tạo file Buoi2_Nhom4_Bai_3, chia sẻ với tùy chọn "Anyone with the link"
 - Paragraph: Before 6pt, After 6pt, Line spacing 1.5
 
 ![Page setup](1_page_setup.png)
-
+7_paragraph_spacing.png
 ## 3.3 Tạo và định dạng văn bản
 Soạn Đơn xin xác nhận sinh viên theo mẫu.
 
