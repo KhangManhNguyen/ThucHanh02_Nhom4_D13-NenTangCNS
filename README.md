@@ -11,6 +11,6 @@ Buổi thực hành 2: Microsoft Word (trộn thư, mục lục) và Google Docs
 | B2613105 | Nguyễn Đức Huy | Nhiệm vụ 2 (mục 2.5 đến 2.11): nhãn caption, trích dẫn, số trang, mục lục |
 
 ## Cấu trúc
-- `NhiemVu1/` Bài thực hành 1: trộn thư dữ liệu từ Excel
-- `NhiemVu2/` Bài thực hành 2: style, caption, trích dẫn và mục lục
-- `NhiemVu3/` Bài thực hành 3: Google Docs
+- `Nhom4_BaiThucHanh1/` Bài thực hành 1: trộn thư dữ liệu từ Excel
+- `Nhom4_BaiThucHanh2/` Bài thực hành 2: style, caption, trích dẫn và mục lục
+- `Nhom4_BaiThucHanh3/` Bài thực hành 3: Google Docs
